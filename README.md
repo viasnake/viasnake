@@ -4,6 +4,8 @@ I'm snake. But I'm not snake, I'm human.
 
 [Website](https://viasnake.com) | [GitHub](https://github.com/viasnake) | [Twitter](https://twitter.com/viasnake) | [Crowdin](https://crowdin.com/profile/viasnake)
 
+___
+
 <a href="https://github.com/viasnake">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=viasnake&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
