@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ViaSnake/viasnake/master/img/snakechan.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/ViaSnake/viasnake/master/img/snakechan.jpg" width="15%">
 
 I'm snake. But I'm not snake, I'm human.
 
