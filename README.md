@@ -1,5 +1,10 @@
 # snake (viasnake)
-<img align="left" src="https://raw.githubusercontent.com/ViaSnake/viasnake/master/img/snakechan.jpg" width="15%">I'm snake. But I'm not snake, I'm human.
+
+<img align="left" src="https://raw.githubusercontent.com/ViaSnake/viasnake/master/img/snakechan.jpg" width="15%">
+
+I'm snake. But I'm not snake, I'm human.
+
+My commits are random and irregular.
 
 [Website](https://viasnake.com) | [GitHub](https://github.com/viasnake) | [Twitter](https://twitter.com/viasnake) | [Crowdin](https://crowdin.com/profile/viasnake)
 
