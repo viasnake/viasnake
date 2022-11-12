@@ -4,8 +4,6 @@
 
 I'm snake. But I'm not snake, I'm human.
 
-My commits are random and irregular.
-
 [Website](https://viasnake.com) | [GitHub](https://github.com/viasnake) | [Twitter](https://twitter.com/viasnake) | [Crowdin](https://crowdin.com/profile/viasnake)
 
 <br clear="all">
