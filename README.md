@@ -4,7 +4,7 @@
 
 I'm snake. But I'm not snake, I'm human.
 
-[Website](https://viasnake.com) | [GitHub](https://github.com/viasnake) | [X (Twitter)](https://twitter.com/viasnake) | [Crowdin](https://crowdin.com/profile/viasnake)
+[Website](https://viasnake.com) | [GitHub](https://github.com/viasnake) | [X (Twitter)](https://twitter.com/viasnake)
 
 <br clear="all">
 
