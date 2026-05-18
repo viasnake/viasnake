@@ -5,13 +5,3 @@
 なんかやってる人。
 
 [Website](https://viasnake.com) | [GitHub](https://github.com/viasnake) | [X (Twitter)](https://twitter.com/viasnake)
-
-<br clear="all">
-
-<br>
-<a href="https://github.com/viasnake">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viasnake&count_private=true&show_icons=true&theme=vue-dark" />
-</a>
-<a href="https://github.com/viasnake">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viasnake&layout=compact&theme=vue-dark" />
-</a>
